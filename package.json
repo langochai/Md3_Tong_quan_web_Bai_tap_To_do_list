@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.22",
+    "qs": "^6.11.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "md3_tong_quan_web_bai_tap_to_do_list",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
